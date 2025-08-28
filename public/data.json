@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Modern 3BHK Apartment in Vesu",
+    "description": "A spacious and modern fully-furnished 3BHK apartment located in the heart of Vesu. Comes with all modern amenities and a beautiful city view from the balcony. Ideal for families.",
+    "price": "25000",
+    "address": "123, Vesu Main Road, Surat, Gujarat",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "amenities": ["Air Conditioning", "Wi-Fi", "Reserved Parking", "Elevator", "24/7 Security"],
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cozy 2BHK Flat in Adajan",
+    "description": "A cozy and well-ventilated 2BHK flat in a peaceful society in Adajan. Perfect for small families or working professionals. Close to markets, schools, and hospitals.",
+    "price": "18000",
+    "address": "456, Adajan Patiya, Surat, Gujarat",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": ["Gated Society", "Wi-Fi", "Parking", "Garden"],
+    "images": [
+      "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?q=80&w=2070&auto=format&fit=crop"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Luxurious Villa with Private Pool",
+    "description": "An exclusive and luxurious 5BHK villa with a private swimming pool and garden. Located in a premium gated community, offering ultimate privacy and a high-end lifestyle.",
+    "price": "75000",
+    "address": "789, Dumas Road, Surat, Gujarat",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "amenities": ["Private Pool", "Private Garden", "Club House", "Gym", "24/7 Security", "Servant Quarters"],
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2070&auto=format&fit=crop"
+    ]
+  }
+]
