@@ -1,0 +1,61 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--primary-dark);
+  color: var(--text-light);
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-logo a {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--accent-light);
+}
+
+.navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.navbar-links a {
+  color: var(--text-light);
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+  color: var(--accent-light);
+}
+
+.navbar-auth {
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar-button {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--accent-light);
+  border-radius: 5px;
+  color: var(--accent-light);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-button:hover {
+  background-color: var(--accent-light);
+  color: var(--primary-dark);
+}
+
+.navbar-button.primary {
+  background-color: var(--primary-light);
+  border-color: var(--primary-light);
+  color: var(--text-light);
+}
+
+.navbar-button.primary:hover {
+  background-color: var(--accent-light);
+  border-color: var(--accent-light);
+  color: var(--primary-dark);
+}
